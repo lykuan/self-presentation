@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('./galaxy.jpg');
+    background-position: center center;
+}
+
+#self-presentation-card{
+    
+    background: rgba(255, 255, 255);
+    width: 450px;
+    height: 500px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px #aaa;
+    text-align: center;
+    font-family: 华文宋体;
+    opacity: 0.6;
+
+
+}
+
+
+h2{
+    margin: 10px 0;
+}
+
+li{
+    margin: 15px 0;
+}
+

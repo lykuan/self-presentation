@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @import url('./self-presentation.css');
+    </style>
+</head>
+
+<body>
+    <h1 id="header">自我介绍</h1>
+
+    <div id="self-presentation-card">
+        <section class="personal-profile"><img src="" alt="">
+            <ul>
+                <li>姓名: 李宽</li>
+                <li>班级:计科209</li>
+                <li>学号:20104010906</li>
+                <li>电话:15708290286</li>
+                <p><a href="https://github.com/lykuan">github:lykuan</a></p>
+
+            </ul>
+        </section>
+        <section>
+            <ul>
+                <li>看动漫</li>
+                <li>看书</li>
+                <li>听音乐</li>
+                <li>赏风景</li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>平日学习:<span>nodejs</span><span>react</span><span>vue</span><span>typescirpt</span></p>
+    </footer>
+</body>
+
+</html
